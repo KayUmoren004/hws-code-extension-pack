@@ -1,0 +1,38 @@
+{
+  "name": "hws-code-extension-pack",
+  "displayName": "hws.Code Extension Pack",
+  "description": "A set of recommented extensions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "publisher": "gUmoren",
+  "icon": "transparent.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "publisher.extensionName",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.liveserver",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "mgmcdermott.vscode-language-babel",
+    "compulim.vscode-clock",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "usernamehw.errorlen",
+    "sidthesloth.html5-boilerplate",
+    "ecmel.vscode-html-css",
+    "visualstudioexptteam.vs",
+    "zignd.html-css-class-completion",
+    "christian-kohler.path-intellisense"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
